@@ -1,0 +1,23 @@
+body {
+  background-color: coral;
+}
+
+Button {
+  margin: 2em;
+  background-color: rgb(231, 12, 30);
+  color: black;
+  border-radius: 3em;
+  padding: 5px 30px;
+}
+
+button:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 10px 10px rgb(82, 4, 82);
+  border: none;
+}
+
+p {
+  margin: 3.2em;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: larger;
+}
