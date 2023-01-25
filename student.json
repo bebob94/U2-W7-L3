@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Alberto",
+    "surname": "Macis",
+    "age": 28,
+    "sex": "men",
+    "course": "fullstack",
+    "certificates": true,
+    "attendence": "98%",
+    "certificate_module": [
+      { "name": "html", "rating": 8 },
+      { "name": "css", "rating": 9 },
+      { "name": "js", "rating": 7 },
+      { "name": "bootstrap", "rating": 8 },
+      { "name": "dom_event", "rating": 6 }
+    ],
+    "residence": [
+      { "country": "Italy" },
+      { "region": "Sardinia" },
+      { "city": "Muravera" }
+    ]
+  },
+  {
+    "name": "Daniele",
+    "surname": "Testi",
+    "age": 22,
+    "sex": "men",
+    "course": "cyberSecurity",
+    "certificates": true,
+    "certificate_module": [
+      { "name": "rubare_password", "rating": 6 },
+      { "name": "HackerareIlPcDiLidia", "rating": 12 }
+    ],
+    "attendence": "85%",
+    "residence": [
+      { "country": "Italy" },
+      { "region": "Lazio" },
+      { "city": "Roma" }
+    ]
+  },
+  {
+    "name": "Lidia",
+    "surname": "Kovac",
+    "age": 23,
+    "sex": "women",
+    "course": "dataAnalist",
+    "certificates": false,
+    "certificate_module": [],
+    "attendence": "46%",
+    "residence": [
+      { "country": "Italy" },
+      { "region": "Lazio" },
+      { "city": "Roma" }
+    ]
+  }
+]
